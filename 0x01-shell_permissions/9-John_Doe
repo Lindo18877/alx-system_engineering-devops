@@ -1,2 +1,2 @@
-#!/bin/bish
+#!/bin/bash
 chmod 753 hello
